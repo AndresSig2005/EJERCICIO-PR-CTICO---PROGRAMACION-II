@@ -42,44 +42,44 @@ Solicita el desarrollo de un sistema básico de gestión para un hotel. El objet
 
 ## Analista   :bust_in_silhouette:
 **Miembro:** Vinicio Ruiz
-
-### ✨ Responsabilidades principales:
-Como Arquitecto de Software, mi función fue diseñar la **estructura técnica del sistema**, asegurando una base sólida que permitiera la implementación eficiente del código por parte del equipo. Este diseño consideró los principios de la **Programación Orientada a Objetos (POO)** y facilitó la escalabilidad y mantenimiento del sistema.
+Como Analista del proyecto, mi tarea fue comprender las necesidades del cliente, transformarlas en requerimientos funcionales claros y asegurar que el equipo técnico tenga una visión precisa del sistema a desarrollar. Este rol fue clave en la fase inicial de planificación y seguimiento de la coherencia entre lo solicitado y lo implementado.
 
 ### 📌 Actividades realizadas:
 
-1. **Diseño de la arquitectura general del sistema**  
-   - Analicé los requerimientos proporcionados por el analista y el cliente.  
-   - Identifiqué las clases clave del sistema: `Hotel`, `Habitación`, `Reserva`, `Cliente`, `Artículo`, `Factura`, `Empleado` y `Administrador`.
+1. **Entrevista y levantamiento de requerimientos**  
+   - Me reuní con el cliente para entender sus expectativas y necesidades.  
+   - Identifiqué los módulos clave que debía tener el sistema, como: gestión de reservas, disponibilidad de habitaciones, registro de clientes y control de inventario.  
+   - Documenté los requerimientos funcionales mínimos esperados.
 
-2. **Creación del diagrama UML de clases**  
-   - Definí las relaciones entre clases (asociaciones, agregaciones y composiciones).
-   - Establecí atributos y métodos esenciales para cada clase.
-   - Representé la jerarquía del sistema, como la relación de herencia entre `Empleado` y `Administrador`.
+2. **Especificación de requerimientos**  
+   - Redacté un documento con los requerimientos funcionales claros, como:  
+     - Crear una nueva reserva con fecha de inicio y fin.  
+     - Consultar disponibilidad de habitaciones según fecha.  
+     - Registrar artículos del inventario y realizar compras.  
+   - Detallé cómo debía comportarse el sistema ante diferentes escenarios.
 
-3. **Modularidad y escalabilidad**  
-   - Propuse una estructura modular para facilitar la ampliación futura (por ejemplo, módulos separados para reservas, facturación e inventario).
-   - Me aseguré de que cada clase tuviera **una única responsabilidad**, alineado con el principio SOLID de SRP.
+3. **Comunicación con el arquitecto de software**  
+   - Colaboré con el arquitecto para traducir los requerimientos en un modelo técnico concreto.  
+   - Validé el diseño UML y verifiqué que las clases propuestas reflejen fielmente las funcionalidades esperadas.
 
-4. **Colaboración técnica**  
-   - Asesoré al desarrollador para asegurar una correcta traducción del diseño al código.
-   - Verifiqué la coherencia entre el diseño UML y la implementación final del sistema.
-   - Acompañé al equipo durante las fases de prueba y sugerí ajustes de diseño según las observaciones del tester.
+4. **Acompañamiento del desarrollo**  
+   - Estuve presente durante la fase de implementación para aclarar dudas funcionales.  
+   - Realicé revisiones de avance para asegurar que las funcionalidades clave estuvieran siendo consideradas correctamente.
 
-### 🧩 Diseño UML del Sistema
+### 📄 Documento funcional generado:
+- Módulos identificados: `Hotel`, `Habitación`, `Reserva`, `Cliente`, `Artículo`, `Factura`, `Empleado`, `Administrador`.
+- Funcionalidades mínimas:  
+  - Creación de reservas.  
+  - Consulta de disponibilidad.  
+  - Gestión de artículos.  
+  - Registro de clientes.  
+- Reglas identificadas:  
+  - No debe permitirse solapamiento de reservas.  
+  - Las habitaciones deben cambiar de estado según su ocupación.  
+  - El stock debe actualizarse automáticamente tras una compra.
 
-- **Clases principales:**  
-  - `Hotel`: clase central que gestiona habitaciones, clientes, reservas y artículos.  
-  - `Habitación`: posee número, tipo y estado (disponible u ocupada).  
-  - `Reserva`: maneja fechas, cliente y habitación reservada.  
-  - `Cliente`: usuario del sistema con múltiples reservas y facturas.  
-  - `Artículo`: productos con stock, precio e identificación.  
-  - `Factura`: detalla compras realizadas y calcula el monto total.  
-  - `Empleado`: contiene datos personales y rol.  
-  - `Administrador`: hereda de `Empleado` y tiene permisos ampliados.
+Mi trabajo permitió al equipo desarrollar un sistema coherente con las expectativas del cliente. La claridad en los requerimientos facilitó un diseño técnico sólido y una implementación efectiva. Gracias a esta planificación, se redujeron errores durante el desarrollo y se logró cumplir con los objetivos del proyecto en tiempo y forma.
 
-### 📐 Resultado:
-El diseño técnico permitió una implementación clara y eficiente del sistema. El equipo pudo trabajar de forma coordinada y mantener la integridad del proyecto, gracias a una base estructural bien definida. Este diseño también garantiza que el sistema pueda evolucionar en versiones futuras, añadiendo nuevas funcionalidades sin comprometer su estabilidad.
 
 ## Arquitecto de Software
 
