@@ -40,3 +40,44 @@ Solicita el desarrollo de un sistema básico de gestión para un hotel. El objet
   - Deberá incluir fechas de entrada y salida, así como los datos del huésped.
   - Debera validar que la habitación esté disponible para las fechas solicitadas.
 
+## Arquitecto de Software  :bust_in_silhouette:
+**Miembro:** Vinicio Ruiz
+
+### ✨ Responsabilidades principales:
+Como Arquitecto de Software, mi función fue diseñar la **estructura técnica del sistema**, asegurando una base sólida que permitiera la implementación eficiente del código por parte del equipo. Este diseño consideró los principios de la **Programación Orientada a Objetos (POO)** y facilitó la escalabilidad y mantenimiento del sistema.
+
+### 📌 Actividades realizadas:
+
+1. **Diseño de la arquitectura general del sistema**  
+   - Analicé los requerimientos proporcionados por el analista y el cliente.  
+   - Identifiqué las clases clave del sistema: `Hotel`, `Habitación`, `Reserva`, `Cliente`, `Artículo`, `Factura`, `Empleado` y `Administrador`.
+
+2. **Creación del diagrama UML de clases**  
+   - Definí las relaciones entre clases (asociaciones, agregaciones y composiciones).
+   - Establecí atributos y métodos esenciales para cada clase.
+   - Representé la jerarquía del sistema, como la relación de herencia entre `Empleado` y `Administrador`.
+
+3. **Modularidad y escalabilidad**  
+   - Propuse una estructura modular para facilitar la ampliación futura (por ejemplo, módulos separados para reservas, facturación e inventario).
+   - Me aseguré de que cada clase tuviera **una única responsabilidad**, alineado con el principio SOLID de SRP.
+
+4. **Colaboración técnica**  
+   - Asesoré al desarrollador para asegurar una correcta traducción del diseño al código.
+   - Verifiqué la coherencia entre el diseño UML y la implementación final del sistema.
+   - Acompañé al equipo durante las fases de prueba y sugerí ajustes de diseño según las observaciones del tester.
+
+### 🧩 Diseño UML del Sistema
+
+- **Clases principales:**  
+  - `Hotel`: clase central que gestiona habitaciones, clientes, reservas y artículos.  
+  - `Habitación`: posee número, tipo y estado (disponible u ocupada).  
+  - `Reserva`: maneja fechas, cliente y habitación reservada.  
+  - `Cliente`: usuario del sistema con múltiples reservas y facturas.  
+  - `Artículo`: productos con stock, precio e identificación.  
+  - `Factura`: detalla compras realizadas y calcula el monto total.  
+  - `Empleado`: contiene datos personales y rol.  
+  - `Administrador`: hereda de `Empleado` y tiene permisos ampliados.
+
+### 📐 Resultado:
+El diseño técnico permitió una implementación clara y eficiente del sistema. El equipo pudo trabajar de forma coordinada y mantener la integridad del proyecto, gracias a una base estructural bien definida. Este diseño también garantiza que el sistema pueda evolucionar en versiones futuras, añadiendo nuevas funcionalidades sin comprometer su estabilidad.
+
