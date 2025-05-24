@@ -16,8 +16,8 @@ Diseñar e implementar tres clases: **Hotel**, **Habitación** y **Reserva**, ap
 #### Asignacion de Roles
 |  Miembro | Rol   | Responsabilidades   |
 | ------------ | ------------ | ------------ |
-| Andres Sigcha   | **Cliente **  | Define el resultado final del sistema, proporciona los requerimientos funcionales y valida si el producto cumple con sus expectativas.   |
-| Nombre | **Analista ** | Define el resultado final del sistema, proporciona los requerimientos funcionales y valida si el producto cumple con sus expectativas.   |
+| Andres Sigcha   | **Cliente**  | Define el resultado final del sistema, proporciona los requerimientos funcionales y valida si el producto cumple con sus expectativas.   |
+| Nombre | **Analista** | Define el resultado final del sistema, proporciona los requerimientos funcionales y valida si el producto cumple con sus expectativas.   |
 | Nombre  | **Arquitecto de Software** | Diseña la estructura técnica del sistema, define las clases UML, relaciones, escalabilidad y modularidad.  |
 | Nombre  | **Desarrollador**   | Implementa las clases y funcionalidades usando buenas prácticas de POO, garantizando código limpio y funcional.  |
 | Nombre   | **Tester**   | Realiza pruebas funcionales, detecta errores, propone mejoras y valida cumplimiento de requerimientos.   |
