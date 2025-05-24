@@ -27,4 +27,8 @@ Diseñar e implementar tres clases: **Hotel**, **Habitación** y **Reserva**, ap
 Solicita el desarrollo de un sistema básico de gestión para un hotel. El objetivo principal del proyecto es contar con una solución informática que permita representar y manejar la información relacionada con hoteles, sus habitaciones y las reservas realizadas por los huéspedes.
 
 #### Requerimientos
+1. Clase Hotel :office: 
+  - Debe representar a un hotel que contiene un conjunto de habitaciones.
+  - Deberá permitir agregar habitaciones al hotel.
+  - Mostrar información general del hotel y sus habitaciones.
 
