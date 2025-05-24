@@ -80,9 +80,7 @@ Como Analista del proyecto, mi tarea fue comprender las necesidades del cliente,
 Mi trabajo permitió al equipo desarrollar un sistema coherente con las expectativas del cliente. La claridad en los requerimientos facilitó un diseño técnico sólido y una implementación efectiva. Gracias a esta planificación, se redujeron errores durante el desarrollo y se logró cumplir con los objetivos del proyecto en tiempo y forma.
 
 
-## Arquitecto de Software
-
-### Nombre: Oliver Quila
+## Arquitecto de Software :bust_in_silhouette:
 
 ### Funciones realizadas:
 
@@ -101,5 +99,43 @@ Mi trabajo permitió al equipo desarrollar un sistema coherente con las expectat
    - Colaboración directa con el analista para interpretar los requerimientos funcionales.
    - Asistencia al desarrollador para asegurar una implementación fiel al diseño.
    - Apoyo al tester para entender la estructura del sistema y validar correctamente.
+
+## 📋 Rol: Gerente del Proyecto  :bust_in_silhouette:
+Como Gerente del Proyecto, fui el responsable de la **planificación, organización y supervisión** del trabajo de todo el equipo. Mi rol garantizó que cada fase del proyecto se cumpliera dentro del tiempo asignado, con entregables claros y una comunicación fluida entre los miembros.
+
+### 📌 Actividades realizadas:
+
+1. **Planificación y asignación de tareas**  
+   - Organicé reuniones iniciales para establecer objetivos, tiempos y responsabilidades.  
+   - Coordiné la distribución de roles (analista, arquitecto, desarrollador, tester, cliente) de acuerdo a las fortalezas de cada miembro.  
+   - Elaboré un cronograma de trabajo con fechas límite para cada fase: análisis, diseño, desarrollo, pruebas y documentación.
+
+2. **Seguimiento del progreso**  
+   - Hice seguimiento constante a cada integrante para asegurar que cumplieran sus tareas.  
+   - Revisé entregables intermedios como el documento de requerimientos, el diseño UML y las primeras pruebas funcionales.  
+   - Detecté posibles retrasos y reorganicé tareas cuando fue necesario para evitar cuellos de botella.
+
+3. **Comunicación y resolución de conflictos**  
+   - Promoví una comunicación abierta y colaborativa entre todos los roles.  
+   - Resolví malentendidos o problemas técnicos rápidamente para mantener el flujo de trabajo.  
+   - Coordiné entregas finales y revisiones antes de la subida al repositorio compartido (GitHub).
+
+4. **Control de calidad y entregas**  
+   - Verifiqué que el proyecto cumpliera con los criterios de la consigna: roles definidos, funciones implementadas, código funcional y evidencia de pruebas.  
+   - Redacté y revisé el documento final del proyecto junto al equipo.  
+   - Subí todos los elementos al repositorio: código, documentación y capturas del sistema funcionando.
+
+### 🗓️ Cronograma de tareas dirigido:
+
+| Fase                   | Tarea                                      | Fecha       |
+|------------------------|--------------------------------------------|-------------|
+| Análisis               | Levantamiento de requerimientos            | 20 de mayo  |
+| Diseño                 | Diagrama de clases UML                     | 21 de mayo  |
+| Desarrollo             | Implementación de clases base              | 22-23 mayo  |
+| Pruebas                | Crear reserva y verificar disponibilidad   | 24 de mayo  |
+| Documentación y entrega| Capturas, revisión y subida a GitHub       | 24-25 mayo  |
+
+### En conclusion:
+Bajo mi gestión, el equipo logró completar el sistema de reservas hoteleras de forma organizada y puntual. Cada fase del proyecto fue monitoreada, y el trabajo colaborativo se mantuvo gracias a una dirección clara, reuniones efectivas y control del cronograma. El resultado fue un sistema funcional, con pruebas exitosas y documentación completa, entregado en tiempo y forma.
 
 
