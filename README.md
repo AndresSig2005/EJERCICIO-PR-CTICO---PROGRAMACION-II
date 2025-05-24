@@ -81,3 +81,26 @@ Como Arquitecto de Software, mi función fue diseñar la **estructura técnica d
 ### 📐 Resultado:
 El diseño técnico permitió una implementación clara y eficiente del sistema. El equipo pudo trabajar de forma coordinada y mantener la integridad del proyecto, gracias a una base estructural bien definida. Este diseño también garantiza que el sistema pueda evolucionar en versiones futuras, añadiendo nuevas funcionalidades sin comprometer su estabilidad.
 
+## Arquitecto de Software
+
+### Nombre: Oliver Quila
+
+### Funciones realizadas:
+
+1. **Diseño de la Arquitectura del Sistema**
+   - Se definió una estructura técnica escalable y modular.
+   - Se propuso una separación clara entre clases y responsabilidades.
+
+2. **Diseño del Diagrama de Clases UML**
+   - Se construyó el modelo UML con atributos y métodos representativos de cada clase.
+
+3. **Aplicación de Principios POO**
+   - Encapsulamiento: atributos privados, métodos públicos.
+   - Modularidad: diseño pensado para facilitar el mantenimiento y ampliaciones.
+
+4. **Coordinación Técnica**
+   - Colaboración directa con el analista para interpretar los requerimientos funcionales.
+   - Asistencia al desarrollador para asegurar una implementación fiel al diseño.
+   - Apoyo al tester para entender la estructura del sistema y validar correctamente.
+
+
