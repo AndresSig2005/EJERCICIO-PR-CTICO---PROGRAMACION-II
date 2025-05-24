@@ -23,3 +23,8 @@ Diseñar e implementar tres clases: **Hotel**, **Habitación** y **Reserva**, ap
 | Nombre   |   **Tester**   | Realiza pruebas funcionales, detecta errores, propone mejoras y valida cumplimiento de requerimientos.   |
 | Nombre   |   **Gerente de Proyecto**   | Planifica, organiza, coordina entregables y soluciona problemas del equipo.  |
 
+## Cliente :bust_in_silhouette:
+Solicita el desarrollo de un sistema básico de gestión para un hotel. El objetivo principal del proyecto es contar con una solución informática que permita representar y manejar la información relacionada con hoteles, sus habitaciones y las reservas realizadas por los huéspedes.
+
+#### Requerimientos
+
