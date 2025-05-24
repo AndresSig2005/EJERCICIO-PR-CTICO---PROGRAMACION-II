@@ -40,7 +40,7 @@ Solicita el desarrollo de un sistema básico de gestión para un hotel. El objet
   - Deberá incluir fechas de entrada y salida, así como los datos del huésped.
   - Debera validar que la habitación esté disponible para las fechas solicitadas.
 
-## Arquitecto de Software  :bust_in_silhouette:
+## Analista   :bust_in_silhouette:
 **Miembro:** Vinicio Ruiz
 
 ### ✨ Responsabilidades principales:
