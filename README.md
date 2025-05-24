@@ -1,4 +1,4 @@
-Desarrollo de una Aplicacion para la Gestion  de Reservas de un Hotel
+## Desarrollo de una Aplicacion para la Gestion  de Reservas de un Hotel
 
 <p>
 Integrantes: 
@@ -7,4 +7,4 @@ Integrantes:
 - Dereck Perez 
 - Sebastian Ruiz 
 - Oliver Quila 
-- Andres Sigcha
+- Andres Sigcha 
