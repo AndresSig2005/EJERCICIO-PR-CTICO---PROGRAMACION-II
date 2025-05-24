@@ -31,4 +31,12 @@ Solicita el desarrollo de un sistema básico de gestión para un hotel. El objet
   - Debe representar a un hotel que contiene un conjunto de habitaciones.
   - Deberá permitir agregar habitaciones al hotel.
   - Mostrar información general del hotel y sus habitaciones.
+2. Clase Habitacion :door:
+  - Representará una habitación dentro de un hotel.
+  - Deberá contener atributos como número, tipo de habitación y precio. 
+  - Debera permitir verificar si está disponible o reservada.
+3. Clase Reserva :clipboard:
+  - Debe permitir registrar una reserva vinculada a una habitación y a un cliente.
+  - Deberá incluir fechas de entrada y salida, así como los datos del huésped.
+  - Debera validar que la habitación esté disponible para las fechas solicitadas.
 
