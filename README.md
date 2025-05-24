@@ -41,7 +41,6 @@ Solicita el desarrollo de un sistema básico de gestión para un hotel. El objet
   - Debera validar que la habitación esté disponible para las fechas solicitadas.
 
 ## Analista   :bust_in_silhouette:
-**Miembro:** Vinicio Ruiz
 Como Analista del proyecto, mi tarea fue comprender las necesidades del cliente, transformarlas en requerimientos funcionales claros y asegurar que el equipo técnico tenga una visión precisa del sistema a desarrollar. Este rol fue clave en la fase inicial de planificación y seguimiento de la coherencia entre lo solicitado y lo implementado.
 
 ### 📌 Actividades realizadas:
