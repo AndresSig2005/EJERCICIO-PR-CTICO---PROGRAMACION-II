@@ -100,6 +100,45 @@ Mi trabajo permitió al equipo desarrollar un sistema coherente con las expectat
    - Asistencia al desarrollador para asegurar una implementación fiel al diseño.
    - Apoyo al tester para entender la estructura del sistema y validar correctamente.
 
+  ##  Desarrollador :bust_in_silhouette
+El Desarrollador fue el encargado de **transformar el diseño técnico del sistema en código funcional**, aplicando principios de la Programación Orientada a Objetos (POO) y asegurando la correcta implementación de las clases y funcionalidades definidas por el equipo.
+
+### 📌 Actividades realizadas:
+
+1. **Implementación de clases base**  
+   - Desarrolló las clases principales del sistema: `Hotel`, `Habitación`, `Reserva`, `Cliente`, `Artículo`, `Factura`, `Empleado` y `Administrador`.  
+   - Aplicó principios de encapsulamiento, herencia y polimorfismo para garantizar una arquitectura limpia y mantenible.
+
+2. **Integración de funcionalidades**  
+   - Programó métodos clave como la creación de reservas, consulta de disponibilidad y manejo de inventario.  
+   - Aseguró que las clases trabajaran en conjunto de forma coherente, permitiendo el flujo correcto de datos en el sistema.
+
+3. **Buenas prácticas de desarrollo**  
+   - Utilizó nombres descriptivos, estructuras ordenadas y comentarios útiles dentro del código.  
+   - Evitó la duplicación innecesaria de código y estructuró los archivos de forma modular.
+
+4. **Pruebas iniciales y depuración**  
+   - Realizó pruebas manuales para detectar errores de lógica y corregir comportamientos inesperados.  
+   - Trabajó en conjunto con el tester para corregir fallos detectados y mejorar la estabilidad general del sistema.
+
+5. **Uso de herramientas de control de versiones**  
+   - Subió el código al repositorio compartido (GitHub/GitLab), manteniendo el control de versiones.  
+   - Aseguró que el código subido estuviera funcional y documentado.
+
+###  Clases desarrolladas:
+
+- `Hotel`: Administra habitaciones, reservas, clientes y artículos.  
+- `Habitación`: Contiene número, tipo y estado.  
+- `Reserva`: Registra fechas, habitación y cliente.  
+- `Cliente`: Almacena datos del usuario y sus reservas.  
+- `Artículo`: Gestiona productos del inventario.  
+- `Factura`: Genera el total de compras y relaciona artículos con el cliente.  
+- `Empleado`: Contiene datos personales y cargo.  
+- `Administrador`: Hereda de `Empleado`, con funciones extendidas de gestión.
+
+El trabajo del desarrollador permitió contar con un sistema funcional y alineado a los requerimientos establecidos. La correcta implementación del código facilitó las pruebas y validaciones del equipo, resultando en un producto final estable, escalable y listo para ser presentado como solución al problema planteado.
+
+
 ##  Gerente del Proyecto  :bust_in_silhouette:
 Como Gerente del Proyecto, fui el responsable de la **planificación, organización y supervisión** del trabajo de todo el equipo. Mi rol garantizó que cada fase del proyecto se cumpliera dentro del tiempo asignado, con entregables claros y una comunicación fluida entre los miembros.
 
