@@ -100,10 +100,10 @@ Mi trabajo permitió al equipo desarrollar un sistema coherente con las expectat
    - Asistencia al desarrollador para asegurar una implementación fiel al diseño.
    - Apoyo al tester para entender la estructura del sistema y validar correctamente.
 
-## 📋 Rol: Gerente del Proyecto  :bust_in_silhouette:
+##  Gerente del Proyecto  :bust_in_silhouette:
 Como Gerente del Proyecto, fui el responsable de la **planificación, organización y supervisión** del trabajo de todo el equipo. Mi rol garantizó que cada fase del proyecto se cumpliera dentro del tiempo asignado, con entregables claros y una comunicación fluida entre los miembros.
 
-### 📌 Actividades realizadas:
+###  Funciones realizadas:
 
 1. **Planificación y asignación de tareas**  
    - Organicé reuniones iniciales para establecer objetivos, tiempos y responsabilidades.  
@@ -125,7 +125,7 @@ Como Gerente del Proyecto, fui el responsable de la **planificación, organizaci
    - Redacté y revisé el documento final del proyecto junto al equipo.  
    - Subí todos los elementos al repositorio: código, documentación y capturas del sistema funcionando.
 
-### 🗓️ Cronograma de tareas dirigido:
+###  Cronograma de tareas dirigido:
 
 | Fase                   | Tarea                                      | Fecha       |
 |------------------------|--------------------------------------------|-------------|
