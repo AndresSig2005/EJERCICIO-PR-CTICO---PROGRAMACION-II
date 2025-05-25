@@ -108,6 +108,21 @@ Mi trabajo permitió al equipo desarrollar un sistema coherente con las expectat
    - Colaboración directa con el analista para interpretar los requerimientos funcionales.
    - Asistencia al desarrollador para asegurar una implementación fiel al diseño.
    - Apoyo al tester para entender la estructura del sistema y validar correctamente.
+## Diagrama UML del Sistema
+
+Este diagrama representa el diseño estructural del sistema de reservas hoteleras. Incluye las principales clases, atributos, métodos y relaciones.
+
+### Clases principales:
+- `Hotel`: Gestiona clientes, habitaciones y reservas.
+- `Habitación`: Contiene tipo y estado (disponible/ocupada).
+- `Reserva`: Contiene fechas, cliente y habitación asignada.
+- `Cliente`: Puede realizar reservas y tener facturas.
+- `Artículo`: Productos del inventario del hotel.
+- `Factura`: Detalla compras del cliente y monto total.
+- `Empleado`: Datos del personal del hotel.
+- `Administrador`: Hereda de `Empleado` y gestiona entidades del sistema.
+
+Este diagrama representa el diseño estructural del sistema de reservas hoteleras. Incluye las principales clases, atributos, métodos y relaciones.
 
   ##  Desarrollador :bust_in_silhouette:
 
