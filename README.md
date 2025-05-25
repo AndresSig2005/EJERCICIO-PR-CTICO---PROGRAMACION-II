@@ -41,31 +41,31 @@ Solicita el desarrollo de un sistema básico de gestión para un hotel. El objet
   - Debera validar que la habitación esté disponible para las fechas solicitadas.
 
 ## Analista   :bust_in_silhouette:
-Como Analista del proyecto, mi tarea fue comprender las necesidades del cliente, transformarlas en requerimientos funcionales claros y asegurar que el equipo técnico tenga una visión precisa del sistema a desarrollar. Este rol fue clave en la fase inicial de planificación y seguimiento de la coherencia entre lo solicitado y lo implementado.
+Como Analista del proyecto, mi tarea fue comprender las necesidades del cliente, transformarlas en requerimientos funcionales claros y asegurar de que el equipo técnico tenga una visión precisa del sistema para que lo pueda desarrollar sin inconvenientes. 
 
-### 📌 Actividades realizadas:
+###  Actividades realizadas:
 
 1. **Entrevista y levantamiento de requerimientos**  
-   - Me reuní con el cliente para entender sus expectativas y necesidades.  
+   - Me reuní con el cliente para entender sus expectativas y necesidades, para hacer una aplicacion de acuerdo a sus gustos.
    - Identifiqué los módulos clave que debía tener el sistema, como: gestión de reservas, disponibilidad de habitaciones, registro de clientes y control de inventario.  
-   - Documenté los requerimientos funcionales mínimos esperados.
+   - Documenté los requerimientos funcionales  esperados.
 
 2. **Especificación de requerimientos**  
-   - Redacté un documento con los requerimientos funcionales claros, como:  
+   - Redacté un documento en base a los requerimientos que queria el cliente , como:  
      - Crear una nueva reserva con fecha de inicio y fin.  
      - Consultar disponibilidad de habitaciones según fecha.  
      - Registrar artículos del inventario y realizar compras.  
    - Detallé cómo debía comportarse el sistema ante diferentes escenarios.
 
 3. **Comunicación con el arquitecto de software**  
-   - Colaboré con el arquitecto para traducir los requerimientos en un modelo técnico concreto.  
+   - Colaboré con el arquitecto para tener un modelo en concreto para tener ideas mas claras.  
    - Validé el diseño UML y verifiqué que las clases propuestas reflejen fielmente las funcionalidades esperadas.
 
 4. **Acompañamiento del desarrollo**  
    - Estuve presente durante la fase de implementación para aclarar dudas funcionales.  
    - Realicé revisiones de avance para asegurar que las funcionalidades clave estuvieran siendo consideradas correctamente.
 
-### 📄 Documento funcional generado:
+###  Documento funcional generado:
 - Módulos identificados: `Hotel`, `Habitación`, `Reserva`, `Cliente`, `Artículo`, `Factura`, `Empleado`, `Administrador`.
 - Funcionalidades mínimas:  
   - Creación de reservas.  
@@ -77,7 +77,7 @@ Como Analista del proyecto, mi tarea fue comprender las necesidades del cliente,
   - Las habitaciones deben cambiar de estado según su ocupación.  
   - El stock debe actualizarse automáticamente tras una compra.
 
-Mi trabajo permitió al equipo desarrollar un sistema coherente con las expectativas del cliente. La claridad en los requerimientos facilitó un diseño técnico sólido y una implementación efectiva. Gracias a esta planificación, se redujeron errores durante el desarrollo y se logró cumplir con los objetivos del proyecto en tiempo y forma.
+Mi trabajo permitió al equipo desarrollar un sistema coherente con las expectativas del cliente. Donde, la claridad en los requerimientos facilitó un diseño técnico  y una implementación efectiva. Gracias a esta planificación, se redujeron errores durante el desarrollo y se logró cumplir con los objetivos del proyecto en tiempo y forma, para asi poder avanzar al siguiente paso.
 
 
 ## Arquitecto de Software :bust_in_silhouette:
@@ -100,30 +100,30 @@ Mi trabajo permitió al equipo desarrollar un sistema coherente con las expectat
    - Asistencia al desarrollador para asegurar una implementación fiel al diseño.
    - Apoyo al tester para entender la estructura del sistema y validar correctamente.
 
-  ##  Desarrollador :bust_in_silhouette:
-El Desarrollador fue el encargado de **transformar el diseño técnico del sistema en código funcional**, aplicando principios de la Programación Orientada a Objetos (POO) y asegurando la correcta implementación de las clases y funcionalidades definidas por el equipo.
+  ##  Desarrollador bust_in_silhouette:
 
-### 📌 Actividades realizadas:
+Fui  el encargado de transformar el diseño técnico del sistema en código funcional, aplicando principios de la Programación Orientada a Objetos (POO) y asegurando la correcta implementación de las clases y funcionalidades definidas por el equipo, y por el cliente, tratando de hacer un código facil e interactivo.
+###  Actividades realizadas:
 
 1. **Implementación de clases base**  
-   - Desarrolló las clases principales del sistema: `Hotel`, `Habitación`, `Reserva`, `Cliente`, `Artículo`, `Factura`, `Empleado` y `Administrador`.  
-   - Aplicó principios de encapsulamiento, herencia y polimorfismo para garantizar una arquitectura limpia y mantenible.
+   - Desarrolle las clases principales del sistema: `Hotel`, `Habitación`, `Reserva`, `Cliente`, `Artículo`, `Factura`, `Empleado` y `Administrador`.  
+   - Aplicque principios de encapsulamiento, herencia y polimorfismo para garantizar una arquitectura limpia y mantenible.
 
 2. **Integración de funcionalidades**  
-   - Programó métodos clave como la creación de reservas, consulta de disponibilidad y manejo de inventario.  
-   - Aseguró que las clases trabajaran en conjunto de forma coherente, permitiendo el flujo correcto de datos en el sistema.
+   - Programe métodos clave como la creación de reservas, consulta de disponibilidad y manejo de inventario.  
+   - Asegure que las clases trabajaran en conjunto de forma coherente, permitiendo el flujo correcto de datos en el sistema.
 
 3. **Buenas prácticas de desarrollo**  
-   - Utilizó nombres descriptivos, estructuras ordenadas y comentarios útiles dentro del código.  
-   - Evitó la duplicación innecesaria de código y estructuró los archivos de forma modular.
+   - Utilize nombres descriptivos, estructuras ordenadas y comentarios útiles dentro del código.  
+   - Evite la duplicación innecesaria de código y estructuró los archivos de forma modular.
 
 4. **Pruebas iniciales y depuración**  
-   - Realizó pruebas manuales para detectar errores de lógica y corregir comportamientos inesperados.  
-   - Trabajó en conjunto con el tester para corregir fallos detectados y mejorar la estabilidad general del sistema.
+   - Realize pruebas manuales para detectar errores de lógica y corregir comportamientos inesperados.  
+   - Trabaje en conjunto con el tester para corregir fallos detectados y mejorar la estabilidad general del sistema.
 
 5. **Uso de herramientas de control de versiones**  
-   - Subió el código al repositorio compartido (GitHub/GitLab), manteniendo el control de versiones.  
-   - Aseguró que el código subido estuviera funcional y documentado.
+   - Subi el código al repositorio compartido (GitHub/GitLab), manteniendo el control de versiones.  
+   - Asegure que el código subido estuviera funcional y documentado.
 
 ###  Clases desarrolladas:
 
@@ -136,34 +136,32 @@ El Desarrollador fue el encargado de **transformar el diseño técnico del siste
 - `Empleado`: Contiene datos personales y cargo.  
 - `Administrador`: Hereda de `Empleado`, con funciones extendidas de gestión.
 
-El trabajo del desarrollador permitió contar con un sistema funcional y alineado a los requerimientos establecidos. La correcta implementación del código facilitó las pruebas y validaciones del equipo, resultando en un producto final estable, escalable y listo para ser presentado como solución al problema planteado.
+Mi trabajo, permitió contar con un sistema funcional y alineado a los requerimientos establecidos. La correcta implementación del código facilitó las pruebas y validaciones del equipo, resultando en un producto final estable, escalable y listo para ser presentado como solución al problema planteado.
 
 
 ##  Gerente del Proyecto  :bust_in_silhouette:
-Como Gerente del Proyecto, fui el responsable de la **planificación, organización y supervisión** del trabajo de todo el equipo. Mi rol garantizó que cada fase del proyecto se cumpliera dentro del tiempo asignado, con entregables claros y una comunicación fluida entre los miembros.
+Como Gerente del Proyecto, fui el responsable de la planificación, organización y supervisión del trabajo de todo el equipo. Mi rol garantizó que cada fase del proyecto se cumpliera dentro del tiempo asignado, con entregables claros y una comunicación fluida entre los miembros. Y tambien destacando la labor de mis empleados y la correcta comunicacion que existio con todo el equipo de trabajo.
 
 ###  Funciones realizadas:
 
 1. **Planificación y asignación de tareas**  
    - Organicé reuniones iniciales para establecer objetivos, tiempos y responsabilidades.  
-   - Coordiné la distribución de roles (analista, arquitecto, desarrollador, tester, cliente) de acuerdo a las fortalezas de cada miembro.  
-   - Elaboré un cronograma de trabajo con fechas límite para cada fase: análisis, diseño, desarrollo, pruebas y documentación.
+   - Coordiné la distribución de roles (analista, arquitecto, desarrollador, tester, cliente) de acuerdo a las destreszs de cada miembro.  
+   - Elaboré un cronograma de trabajo con fechas límite para cada fase: análisis, diseño, desarrollo, pruebas y documentacion.
 
 2. **Seguimiento del progreso**  
-   - Hice seguimiento constante a cada integrante para asegurar que cumplieran sus tareas.  
+   - Hice seguimiento constante a cada integrante para asegurar que cumplieran sus tareas, y que no se obviaran errores. 
    - Revisé entregables intermedios como el documento de requerimientos, el diseño UML y las primeras pruebas funcionales.  
-   - Detecté posibles retrasos y reorganicé tareas cuando fue necesario para evitar cuellos de botella.
 
 3. **Comunicación y resolución de conflictos**  
    - Promoví una comunicación abierta y colaborativa entre todos los roles.  
-   - Resolví malentendidos o problemas técnicos rápidamente para mantener el flujo de trabajo.  
-   - Coordiné entregas finales y revisiones antes de la subida al repositorio compartido (GitHub).
+   - Resolví malentendidos o problemas técnicos rápidamente para mantener el ritmo de trabajo y evitar retrasos o problemas futuros.  
+   - Coordiné entregas finales y revisiones antes de la subida al repositorio.
 
 4. **Control de calidad y entregas**  
    - Verifiqué que el proyecto cumpliera con los criterios de la consigna: roles definidos, funciones implementadas, código funcional y evidencia de pruebas.  
-   - Redacté y revisé el documento final del proyecto junto al equipo.  
-   - Subí todos los elementos al repositorio: código, documentación y capturas del sistema funcionando.
-
+   - Redacté y revisé el documento final del proyecto, con el aporte del equipo de trabajo.  
+   
 ###  Cronograma de tareas dirigido:
 
 | Fase                   | Tarea                                      | Fecha       |
@@ -175,6 +173,6 @@ Como Gerente del Proyecto, fui el responsable de la **planificación, organizaci
 | Documentación y entrega| Capturas, revisión y subida a GitHub       | 24-25 mayo  |
 
 ### En conclusion:
-Bajo mi gestión, el equipo logró completar el sistema de reservas hoteleras de forma organizada y puntual. Cada fase del proyecto fue monitoreada, y el trabajo colaborativo se mantuvo gracias a una dirección clara, reuniones efectivas y control del cronograma. El resultado fue un sistema funcional, con pruebas exitosas y documentación completa, entregado en tiempo y forma.
+Bajo mi gestión, el equipo logró completar el sistema de reservas hoteleras de forma organizada y puntual. Cada fase del proyecto fue monitoreada, y el trabajo colaborativo se mantuvo gracias a una dirección clara,estableciendo reuniones  y controles del cronograma. El resultado fue un sistema funcional, coon pruebas que pasaron por diferentes casos y lograron ser exitosas y finalmente entregamos la documentacion completa, entregando en tiempo establecido y para que el cliente observe nuestra forma de trabajo para que nos contrate en futuros proyectos.
 
 
