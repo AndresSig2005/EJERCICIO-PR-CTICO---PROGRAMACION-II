@@ -149,6 +149,12 @@ Nuestro trabajo, permitió contar con un sistema funcional y alineado a los requ
 
 ## Tester :bust_in_silhouette:
 
+Mi trabajo como tester es probar el coddigo y revisar que todo este bien, desde algun fallo que podria a llegar a tener el codigo como posibles errores de verificaion, tambien buscar y sugerir ideas al desarrollador que se pudiera implementar dentro del codigo.
+####Prueba 1
+-En esta prueba realializada pude hubo un pequeño error en el codigo y se lo dije al desarrollador para pudiera arreglarlo. 
+-Tambien cuando ya me paso el codigo corregido y pude probrarlo pues le sugeri que aunmentara mas usuarios de prueba para poder tener un mejor analisis.
+-Tambien me di cuenta que al momento de imprimir los datos del usuario no aparecia la habitacion, asi que le recomende que tambien agregara la numeracion del habitacion del usuario. 
+
 
 ##  Gerente del Proyecto  :bust_in_silhouette:
 Como Gerente del Proyecto, fui el responsable de la planificación, organización y supervisión del trabajo de todo el equipo. Mi rol garantizó que cada fase del proyecto se cumpliera dentro del tiempo asignado, con entregables claros y una comunicación fluida entre los miembros. Y tambien destacando la labor de mis empleados y la correcta comunicacion que existio con todo el equipo de trabajo.
