@@ -13,8 +13,11 @@ Integrantes:
 Diseñar e implementar tres clases: **Hotel**, **Habitación** y **Reserva**, aplicando los principales pilares de la **Programación Orientada a Objetos (POO)**
 - El objetivo es construir un sistema básico que permita representar un hotel con sus habitaciones y las reservas realizadas por los clientes.
 
-#Introduccion: 
-ENuestro pais es muy multidiveros y por ende tenemos mucho turismo, es por esto que existen muchos hoteles, u hospedajes para los visitanes que no tengan un lugar en donde quedarse a dormir. En la mayoria de veces los hoteles no tienen bien capacitado al personal y tambien carecen de una adecuada organizacion. En zonas rurales a veces ni tienen una organizacion para ver si las habitaciones estan disponibles, o estan ocupadas . Es por esto que desarrollamos nuestra aplicacion, la cual va a consistir en ayudar a las zonas rurales, y ciudades que posean alojamientos que no tengan un adecuado uso de capacitacion a los clientes, con este software va a ser mucho mas facil su trabajo y va a evitar confusiones, ya que va a tener creacion de reservas, consulta de disponibilidad de las habitaciones,gestion de articulos, registro de clientes, va a tener un sistema que va a permitir cambiar el estado de la habitacion de disponible a ocupado. Con esto buscamos ayudar a las cadenas de hoteles a tener un sistema mas optimizado y facil de usar.
+##Introduccion: 
+
+Nuestro pais es muy multidiveros y por ende tenemos mucho turismo, es por esto que existen muchos hoteles, u hospedajes para los visitanes que no tengan un lugar en donde quedarse a dormir. En la mayoria de veces los hoteles no tienen bien capacitado al personal y tambien carecen de una adecuada organizacion. En zonas rurales a veces ni tienen una organizacion para ver si las habitaciones estan disponibles, o estan ocupadas . Es por esto que desarrollamos nuestra aplicacion, la cual va a consistir en ayudar a las zonas rurales, y ciudades que posean alojamientos que no tengan un adecuado uso de capacitacion a los clientes, con este software va a ser mucho mas facil su trabajo y va a evitar confusiones, ya que va a tener creacion de reservas, consulta de disponibilidad de las habitaciones,gestion de articulos, registro de clientes, va a tener un sistema que va a permitir cambiar el estado de la habitacion de disponible a ocupado. Con esto buscamos ayudar a las cadenas de hoteles a tener un sistema mas optimizado y facil de usar.
+
+
 
 |  Miembro | Rol   | Responsabilidades   |
 ## Asignacion de Roles
