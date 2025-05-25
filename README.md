@@ -112,7 +112,7 @@ Mi trabajo permitió al equipo desarrollar un sistema coherente con las expectat
 
 Este diagrama representa el diseño estructural del sistema de reservas hoteleras. Incluye las principales clases, atributos, métodos y relaciones.
 
-![Diagrama UML](PROYECTO%20HOTEL.drawio.png)
+![Diagrama UML](proyecto_hotel_uml.png)
 
 ### Clases principales:
 - `Hotel`: Gestiona clientes, habitaciones y reservas.
