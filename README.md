@@ -100,7 +100,7 @@ Mi trabajo permitió al equipo desarrollar un sistema coherente con las expectat
    - Asistencia al desarrollador para asegurar una implementación fiel al diseño.
    - Apoyo al tester para entender la estructura del sistema y validar correctamente.
 
-  ##  Desarrollador bust_in_silhouette:
+  ##  Desarrollador :bust_in_silhouette:
 
 Fui  el encargado de transformar el diseño técnico del sistema en código funcional, aplicando principios de la Programación Orientada a Objetos (POO) y asegurando la correcta implementación de las clases y funcionalidades definidas por el equipo, y por el cliente, tratando de hacer un código facil e interactivo.
 ###  Actividades realizadas:
