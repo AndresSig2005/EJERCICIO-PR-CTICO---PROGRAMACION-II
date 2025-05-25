@@ -13,21 +13,24 @@ Integrantes:
 Diseñar e implementar tres clases: **Hotel**, **Habitación** y **Reserva**, aplicando los principales pilares de la **Programación Orientada a Objetos (POO)**
 - El objetivo es construir un sistema básico que permita representar un hotel con sus habitaciones y las reservas realizadas por los clientes.
 
-##Introduccion: 
+## Introducción
 
-Nuestro pais es muy multidiveros y por ende tenemos mucho turismo, es por esto que existen muchos hoteles, u hospedajes para los visitanes que no tengan un lugar en donde quedarse a dormir. En la mayoria de veces los hoteles no tienen bien capacitado al personal y tambien carecen de una adecuada organizacion. En zonas rurales a veces ni tienen una organizacion para ver si las habitaciones estan disponibles, o estan ocupadas . Es por esto que desarrollamos nuestra aplicacion, la cual va a consistir en ayudar a las zonas rurales, y ciudades que posean alojamientos que no tengan un adecuado uso de capacitacion a los clientes, con este software va a ser mucho mas facil su trabajo y va a evitar confusiones, ya que va a tener creacion de reservas, consulta de disponibilidad de las habitaciones,gestion de articulos, registro de clientes, va a tener un sistema que va a permitir cambiar el estado de la habitacion de disponible a ocupado. Con esto buscamos ayudar a las cadenas de hoteles a tener un sistema mas optimizado y facil de usar.
+Nuestro país es muy multidiverso y por ende tenemos mucho turismo. Es por esto que existen muchos hoteles u hospedajes para los visitantes que no tengan un lugar en donde quedarse a dormir. En la mayoría de veces, los hoteles no tienen bien capacitado al personal y también carecen de una adecuada organización. En zonas rurales a veces ni siquiera tienen una organización para verificar si las habitaciones están disponibles o están ocupadas.
 
+Es por esto que desarrollamos nuestra aplicación, la cual va a consistir en ayudar a las zonas rurales y ciudades que posean alojamientos que no tengan un adecuado uso de capacitación a los clientes. Con este software va a ser mucho más fácil su trabajo y se van a evitar confusiones, ya que contará con: creación de reservas, consulta de disponibilidad de las habitaciones, gestión de artículos, registro de clientes y un sistema que permitirá cambiar el estado de la habitación de “disponible” a “ocupado”.
 
+Con esto buscamos ayudar a las cadenas de hoteles a tener un sistema más optimizado y fácil de usar.
 
-|  Miembro | Rol   | Responsabilidades   |
-## Asignacion de Roles
-| ------------ | ------------ | ------------ |
-| Andres Sigcha   |   **Cliente**   | Define el resultado final del sistema, proporciona los requerimientos funcionales y valida si el producto cumple con sus expectativas.   |
-| Vinicio Ruiz |   **Analista**   | Define el resultado final del sistema, proporciona los requerimientos funcionales y valida si el producto cumple con sus expectativas.   |
-| Oliver Quila  |   **Arquitecto de Software**   | Diseña la estructura técnica del sistema, define las clases UML, relaciones, escalabilidad y modularidad.  |
-| Dereck Perez, Oliver Quila  |   **Desarrollador**   | Implementa las clases y funcionalidades usando buenas prácticas de POO, garantizando código limpio y funcional.  |
-| Dereck Perez  |   **Tester**   | Realiza pruebas funcionales, detecta errores, propone mejoras y valida cumplimiento de requerimientos.   |
-| Vinicio Ruiz   |   **Gerente de Proyecto**   | Planifica, organiza, coordina entregables y soluciona problemas del equipo.  |
+## Asignación de Roles
+
+| Miembro         | Rol                    | Responsabilidades |
+|------------------|-------------------------|--------------------|
+| Andres Sigcha    | **Cliente**             | Define el resultado final del sistema, proporciona los requerimientos funcionales y valida si el producto cumple con sus expectativas. |
+| Vinicio Ruiz     | **Analista**            | Define el resultado final del sistema, proporciona los requerimientos funcionales y valida si el producto cumple con sus expectativas. |
+| Oliver Quila     | **Arquitecto de Software** | Diseña la estructura técnica del sistema, define las clases UML, relaciones, escalabilidad y modularidad. |
+| Dereck Perez, Oliver Quila | **Desarrollador** | Implementa las clases y funcionalidades usando buenas prácticas de POO, garantizando código limpio y funcional. |
+| Dereck Perez     | **Tester**              | Realiza pruebas funcionales, detecta errores, propone mejoras y valida cumplimiento de requerimientos. |
+| Vinicio Ruiz     | **Gerente de Proyecto** | Planifica, organiza, coordina entregables y soluciona problemas del equipo. |
 
 ## Cliente :bust_in_silhouette:
 Solicita el desarrollo de un sistema básico de gestión para un hotel. El objetivo principal del proyecto es contar con una solución informática que permita representar y manejar la información relacionada con hoteles, sus habitaciones y las reservas realizadas por los huéspedes.
