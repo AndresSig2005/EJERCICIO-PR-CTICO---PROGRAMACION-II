@@ -1,4 +1,4 @@
-public class Reserva {  // "Reserva" con 'v' según el UML
+public class Reserva {  
     private int fechaInicio;
     private int fechaSalida;
     private Cliente cliente;
@@ -11,8 +11,12 @@ public class Reserva {  // "Reserva" con 'v' según el UML
         this.habitacion = habitacion;
         habitacion.setEstado("Ocupada"); // Actualiza el estado al reservar
     }
+    // Getter habitacion 
+    public Habitacion getHabitacion() {
+        return habitacion;
+    }
 
-    // Getters
+    // Getter cliente
     public Cliente getCliente() {
         return cliente;
     }
