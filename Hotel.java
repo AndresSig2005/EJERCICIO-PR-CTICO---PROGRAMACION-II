@@ -16,15 +16,16 @@ public class Hotel {
     }
 
     // Funcionalidad 1: Crear reserva
-    public void crearReserva(Cliente cliente, Habitacion habitacion, int fechaInicio, int fechaSalida) {
-        if (habitacion.getEstado().equals("Disponible")) {
-            Reserva nuevaReserva = new Reserva(fechaInicio, fechaSalida, cliente, habitacion);
-            reservas.add(nuevaReserva);
-            System.out.println("Reserva creada para " + cliente.getNombre());
-        } else {
-            System.out.println("Habitación no disponible");
-        }
+public void crearReserva(Cliente cliente, Habitacion habitacion, int fechaInicio, int fechaSalida) {
+    if (habitacion.getEstado().equals("Disponible")) {
+        Reserva nuevaReserva = new Reserva(fechaInicio, fechaSalida, cliente, habitacion);
+        reservas.add(nuevaReserva);
+        System.out.println("Reserva creada para " + cliente.getNombre() + 
+                          " en la habitación #" + habitacion.getNumero());
+    } else {
+        System.out.println("Habitación no disponible");
     }
+}
 
     // Funcionalidad 2: Buscar disponibilidad
     public boolean buscarDisponibilidad(int fecha, Habitacion habitacion) {
