@@ -30,4 +30,9 @@ public class Hotel {
     public boolean buscarDisponibilidad(int fecha, Habitacion habitacion) {
         return habitacion.getEstado().equals("Disponible");
     }
+
+    // Método CORREGIDO para obtener reservas
+    public List<Reserva> getReservas() {
+        return reservas;  // Devuelve directamente la lista de reservas
+    }
 }
