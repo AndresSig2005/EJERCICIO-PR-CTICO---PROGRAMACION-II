@@ -18,9 +18,9 @@ Diseñar e implementar tres clases: **Hotel**, **Habitación** y **Reserva**, ap
 | ------------ | ------------ | ------------ |
 | Andres Sigcha   |   **Cliente**   | Define el resultado final del sistema, proporciona los requerimientos funcionales y valida si el producto cumple con sus expectativas.   |
 | Vinicio Ruiz |   **Analista**   | Define el resultado final del sistema, proporciona los requerimientos funcionales y valida si el producto cumple con sus expectativas.   |
-| Nombre  |   **Arquitecto de Software**   | Diseña la estructura técnica del sistema, define las clases UML, relaciones, escalabilidad y modularidad.  |
-| Nombre  |   **Desarrollador**   | Implementa las clases y funcionalidades usando buenas prácticas de POO, garantizando código limpio y funcional.  |
-| Nombre   |   **Tester**   | Realiza pruebas funcionales, detecta errores, propone mejoras y valida cumplimiento de requerimientos.   |
+| Oliver Quila  |   **Arquitecto de Software**   | Diseña la estructura técnica del sistema, define las clases UML, relaciones, escalabilidad y modularidad.  |
+| Dereck Perez, Oliver Quila  |   **Desarrollador**   | Implementa las clases y funcionalidades usando buenas prácticas de POO, garantizando código limpio y funcional.  |
+| Dereck Perez  |   **Tester**   | Realiza pruebas funcionales, detecta errores, propone mejoras y valida cumplimiento de requerimientos.   |
 | Vinicio Ruiz   |   **Gerente de Proyecto**   | Planifica, organiza, coordina entregables y soluciona problemas del equipo.  |
 
 ## Cliente :bust_in_silhouette:
