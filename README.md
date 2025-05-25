@@ -111,28 +111,28 @@ Mi trabajo permitió al equipo desarrollar un sistema coherente con las expectat
 
   ##  Desarrollador :bust_in_silhouette:
 
-Fui  el encargado de transformar el diseño técnico del sistema en código funcional, aplicando principios de la Programación Orientada a Objetos (POO) y asegurando la correcta implementación de las clases y funcionalidades definidas por el equipo, y por el cliente, tratando de hacer un código facil e interactivo.
+Fuimos  los encargados de transformar el diseño técnico del sistema en código funcional, aplicando principios de la Programación Orientada a Objetos  y asegurando la correcta implementación de las clases y funcionalidades definidas por el equipo, y por el cliente, tratando de hacer un código facil e interactivo.
 ###  Actividades realizadas:
 
 1. **Implementación de clases base**  
-   - Desarrolle las clases principales del sistema: `Hotel`, `Habitación`, `Reserva`, `Cliente`, `Artículo`, `Factura`, `Empleado` y `Administrador`.  
-   - Aplicque principios de encapsulamiento, herencia y polimorfismo para garantizar una arquitectura limpia y mantenible.
+   - Desarrollamos las clases principales del sistema: `Hotel`, `Habitación`, `Reserva`, `Cliente`, `Artículo`, `Factura`, `Empleado` y `Administrador`.  
+   - Aplicamos principios de encapsulamiento, herencia y polimorfismo para garantizar una arquitectura limpia y mantenible.
 
 2. **Integración de funcionalidades**  
-   - Programe métodos clave como la creación de reservas, consulta de disponibilidad y manejo de inventario.  
-   - Asegure que las clases trabajaran en conjunto de forma coherente, permitiendo el flujo correcto de datos en el sistema.
+   - Programamos métodos clave como la creación de reservas, consulta de disponibilidad y manejo de inventario.  
+   - Aseguramos que las clases trabajaran en conjunto de forma coherente, permitiendo el flujo correcto de datos en el sistema.
 
 3. **Buenas prácticas de desarrollo**  
-   - Utilize nombres descriptivos, estructuras ordenadas y comentarios útiles dentro del código.  
-   - Evite la duplicación innecesaria de código y estructuró los archivos de forma modular.
+   - Utilizamos nombres descriptivos, estructuras ordenadas y comentarios útiles dentro del código.  
+   - Evitamos la duplicación innecesaria de código y estructuró los archivos de forma modular.
 
 4. **Pruebas iniciales y depuración**  
-   - Realize pruebas manuales para detectar errores de lógica y corregir comportamientos inesperados.  
-   - Trabaje en conjunto con el tester para corregir fallos detectados y mejorar la estabilidad general del sistema.
+   - Realizamos pruebas manuales para detectar errores de lógica y corregir comportamientos inesperados.  
+   - Trabajamos en conjunto con el tester para corregir fallos detectados y mejorar la estabilidad general del sistema.
 
 5. **Uso de herramientas de control de versiones**  
-   - Subi el código al repositorio compartido (GitHub/GitLab), manteniendo el control de versiones.  
-   - Asegure que el código subido estuviera funcional y documentado.
+   - Subimos el código al repositorio compartido (GitHub/GitLab), manteniendo el control de versiones.  
+   - Aseguramos que el código subido estuviera funcional y documentado.
 
 ###  Clases desarrolladas:
 
@@ -145,7 +145,9 @@ Fui  el encargado de transformar el diseño técnico del sistema en código func
 - `Empleado`: Contiene datos personales y cargo.  
 - `Administrador`: Hereda de `Empleado`, con funciones extendidas de gestión.
 
-Mi trabajo, permitió contar con un sistema funcional y alineado a los requerimientos establecidos. La correcta implementación del código facilitó las pruebas y validaciones del equipo, resultando en un producto final estable, escalable y listo para ser presentado como solución al problema planteado.
+Nuestro trabajo, permitió contar con un sistema funcional y alineado a los requerimientos establecidos. La correcta implementación del código facilitó las pruebas y validaciones del equipo, resultando en un producto final estable, escalable y listo para ser presentado como solución al problema planteado.
+
+## Tester :bust_in_silhouette:
 
 
 ##  Gerente del Proyecto  :bust_in_silhouette:
