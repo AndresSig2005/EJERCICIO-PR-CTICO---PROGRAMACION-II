@@ -153,7 +153,12 @@ Mi trabajo como tester es probar el coddigo y revisar que todo este bien, desde 
 #### Prueba 1
 - En esta prueba realializada pude hubo un pequeño error en el codigo y se lo dije al desarrollador para pudiera arreglarlo. 
 - Tambien cuando ya me paso el codigo corregido y pude probrarlo pues le sugeri que aunmentara mas usuarios de prueba para poder tener un mejor analisis.
-- Tambien me di cuenta que al momento de imprimir los datos del usuario no aparecia la habitacion, asi que le recomende que tambien agregara la numeracion del habitacion del usuario. 
+- Tambien me di cuenta que al momento de imprimir los datos del usuario no aparecia la habitacion, asi que le recomende que tambien agregara la numeracion del habitacion del usuario.
+#### Prueba 2
+- El desarrollador ya me paso la verison actualizada y agrego 3 personas mas en total 4 con esto ya pude hacer un mejor analisis de comprobacion y pues las verificaiones si las paso ya que si pude validar tambien que pasaria en caso de que una habitacion ya este ocupada
+- tambien agrego que en cada usuario aparezca su numero de habitacion esto es muy bueno para asi poder identificar mejor las habitaciones de los clientes en caso de que pase algo y se requiera su numero de habitacion.
+- En lo que respecta la facturacion pues la veo bastante bien aunque muy simple en un futuro se podria mejorar como que la factura salga dependiedo cuantos dias se va a quedar la persona y tambien dando mas detalles en la factura.
+- En si el programa esta bien pero si podria tener muchas mejoras tecnicas para una futura actualizacion como agregar tiempo de estadia, ya sean para varios dias o incluso que sea solo por noche u horas, pero en si el programa si paso las pruebaas de test.
 
 
 ##  Gerente del Proyecto  :bust_in_silhouette:
